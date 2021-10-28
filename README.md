@@ -9,13 +9,13 @@
 
 </a>
 <a href="https://www.linkedin.com/in/shreya-singh19/">
-  <img align="left" alt="Arnab's Linkdein" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.iveI-7RaDmehBSfg71TwUgHaHa%26pid%3DApi&f=1" />
+  <img align="left" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.iveI-7RaDmehBSfg71TwUgHaHa%26pid%3DApi&f=1" />
 </a>
 <a href="https://github.com/shreya1907">
-  <img align="left" alt="Arnab's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://open.spotify.com/user/ycvh8l9ob9ryboexbvgrdmft6">
-  <img align="left" alt="Arnab's Github" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FIsoo5kjSejbkhhMZdJLvQHaHa%26pid%3DApi&f=1" />
+  <img align="left"  width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FIsoo5kjSejbkhhMZdJLvQHaHa%26pid%3DApi&f=1" />
 </a>
 </div>
 
